@@ -57,8 +57,10 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikqhadeer&show_icons=true&locale=en&layout=compact" alt="shaikqhadeer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikqhadeer&show_icons=true&locale=en" alt="shaikqhadeer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-qhadeer&show_icons=true&locale=en&layout=compact" alt="shaik-qhadeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikqhadeer&" alt="shaikqhadeer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-qhadeer&show_icons=true&locale=en" alt="shaik-qhadeer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-qhadeer" alt="shaik-qhadeer" /></p>
+
