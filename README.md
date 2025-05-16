@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shaikqhadeer04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file]
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QXvhyT2rh0t1wN_kKkk0byo8i6TPdeFC?usp=drive_link]
 
 - ⚡ Fun fact **I think i am funny**
 
