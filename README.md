@@ -64,6 +64,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-qhadeer" alt="shaik-qhadeer" /></p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shaik-Qhadeer" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Shaik-Qhadeer?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
