@@ -1,69 +1,130 @@
-<h1 align="center">Hi 👋, I'm Shaik Qhadeer</h1>
-<img align="right" alt="coding"  src="https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" >
-<h3 align="center">Now, I am currently final year Student in ISL Engineering College. I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shaik Qhadeer - Portfolio</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    h1, h3 {
+      color: #f0f6fc;
+    }
+    img {
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajgupta4820&label=Profile%20views&color=0e75b6&style=flat" alt="neerajgupta4820" /> </p>
-<img  align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
-- 🔭 I’m currently working on **FullStack Development**
+  <h1 align="center">Hi 👋, I'm Shaik Qhadeer</h1>
 
-- 🌱 I’m currently learning **AIML,DL**
+  <img align="right" alt="coding"
+    src="https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"
+    width="300" />
 
-- 👯 I’m looking to collaborate on **anything specially Fullstack project**
+  <h3 align="center">Now, I am currently final year Student in ISL Engineering College. I'm a Full-stack Developer 🧑‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
 
-- 👨‍💻 All of my projects are available at ([github](https://github.com/Shaik-Qhadeer/))
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shaik-qhadeer/]
-
-- 💬 Ask me about **MERN and Data structres**
-
-- 📫 How to reach me **shaikqhadeer04@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QXvhyT2rh0t1wN_kKkk0byo8i6TPdeFC?usp=drive_link]
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaik-qhadeer/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-qhadeer" height="30" width="40" />
-  </a>
-   <a href="https://github.com/Shaik-Qhadeer" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="shaik-qhadeer" height="30" width="40"/>
-  </a>
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shaik-qhadeer&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-qhadeer" />
 </p>
 
----
+  <img align="right" alt="coding" width="400"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Web Development -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
+  <ul>
+    <li>🔭 I’m currently working on <strong>FullStack Development</strong></li>
+    <li>🌱 I’m currently learning <strong>AIML, DL</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>anything especially Fullstack project</strong></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/Shaik-Qhadeer">GitHub</a></li>
+    <li>📝 I regularly write articles on <a href="https://www.linkedin.com/in/shaik-qhadeer/">LinkedIn</a></li>
+    <li>💬 Ask me about <strong>MERN and Data Structures</strong></li>
+    <li>📫 How to reach me: <strong>sqhadeer42@gmail.com</strong></li>
+    <li>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1QXvhyT2rh0t1wN_kKkk0byo8i6TPdeFC?usp=drive_link">here</a></li>
+    <li>⚡ Fun fact: <strong>I think I am funny</strong></li>
+  </ul>
 
-  <!-- Other Tech Stack -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-</p>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/shaik-qhadeer/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="shaik-qhadeer" height="30" width="40" />
+    </a>
+    <a href="https://github.com/Shaik-Qhadeer" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        alt="shaik-qhadeer" height="30" width="40" />
+    </a>
+  </p>
 
----
+  <hr>
 
-<h3 align="left">GitHub Stats:</h3>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <!-- Languages -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+    </a>
+    <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+    </a>
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-qhadeer&show_icons=true&locale=en&layout=compact" alt="shaik-qhadeer" /></p>
+  <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-qhadeer&show_icons=true&locale=en" alt="shaik-qhadeer" /></p>
+  <h3 align="left">GitHub Stats:</h3>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-qhadeer&show_icons=true&locale=en&layout=compact" alt="shaik-qhadeer" />
+  </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-qhadeer&show_icons=true&locale=en" alt="shaik-qhadeer" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-qhadeer" alt="shaik-qhadeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-qhadeer" alt="shaik-qhadeer" /></p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shaik-Qhadeer?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
-</p>
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/Shaik-Qhadeer?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  </p>
 
+</body>
+</html>
