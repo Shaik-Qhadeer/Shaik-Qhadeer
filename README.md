@@ -63,4 +63,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-qhadeer&show_icons=true&locale=en" alt="shaik-qhadeer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-qhadeer" alt="shaik-qhadeer" /></p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shaik-Qhadeer" alt="LeetCode Stats" />
+</p>
 
