@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Qhadeer</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3PogYSuIcoj8KeM1eXyqfP&ust=1748595431162000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZ49ynyI0DFQAAAAAdAAAAABAE" alt="coding" width="60%" />
+  <img src="https://github.com/rudrabarad/Gifs/raw/main/code.gif" alt="coding" width="60%" />
 </p>
 
 ---
