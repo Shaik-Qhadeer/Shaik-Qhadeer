@@ -23,6 +23,7 @@ I'm a passionate and driven Full Stack Developer currently in my final year at I
 - ✍️ &nbsp;Sharing tech articles on [LinkedIn](https://www.linkedin.com/in/shaik-qhadeer/)
 - 📬 &nbsp;Reach me at: **shaikqhadeer04@gmail.com**
 - 📂 &nbsp;View my [Resume](https://drive.google.com/drive/folders/1QXvhyT2rh0t1wN_kKkk0byo8i6TPdeFC?usp=drive_link)
+- 🌐 Check out my [Portfolio](https://shaik-qhadeer.netlify.app/)  
 - 🎯 &nbsp;**Fun Fact:** I write code like I write jokes — sometimes they compile, sometimes they crash 😂
 
 
