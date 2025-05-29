@@ -14,22 +14,17 @@ I'm a passionate and driven Full Stack Developer currently in my final year at I
 
 ---
 
-🌟 About Me
-🚀 Currently building Full-Stack Web Applications
+## 🌟 About Me
 
-🧠 Learning AI/ML and diving into Deep Learning
+- 🚀 &nbsp;Currently building **Full-Stack Web Applications**
+- 🧠 &nbsp;Learning **AI/ML** and diving into **Deep Learning**
+- 🤝 &nbsp;Open to collaborating on **MERN Stack Projects**
+- 💡 &nbsp;Ask me about **JavaScript, MERN Stack, and DSA**
+- ✍️ &nbsp;Sharing tech articles on [LinkedIn](https://www.linkedin.com/in/shaik-qhadeer/)
+- 📬 &nbsp;Reach me at: **shaikqhadeer04@gmail.com**
+- 📂 &nbsp;View my [Resume](https://drive.google.com/drive/folders/1QXvhyT2rh0t1wN_kKkk0byo8i6TPdeFC?usp=drive_link)
+- 🎯 &nbsp;**Fun Fact:** I write code like I write jokes — sometimes they compile, sometimes they crash 😂
 
-🤝 Open to collaborating on MERN Stack Projects
-
-💡 Ask me about JavaScript, MERN Stack, and DSA
-
-✍️ Sharing tech articles on LinkedIn
-
-📬 Reach me at: shaikqhadeer04@gmail.com
-
-📂 View my Resume
-
-🎯 Fun Fact: I write code like I write jokes — sometimes they compile, sometimes they crash 😂
 
 ---
 
