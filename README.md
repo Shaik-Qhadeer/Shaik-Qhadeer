@@ -93,3 +93,4 @@ I'm a passionate and driven Full Stack Developer currently in my final year at I
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaik-qhadeer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p>Thanks for visiting my portfolio, and I look forward to collaborating with you!</p>
